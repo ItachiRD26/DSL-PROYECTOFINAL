@@ -1,4 +1,6 @@
 <?php
+error_reporting(E_ALL);
+ini_set('display_errors', 1);
 $host = "localhost";
 $user = "root"; // Cambia si tu usuario es diferente
 $pass = "";     // Cambia si tienes contraseña
